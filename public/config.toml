@@ -1,0 +1,8 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+indexes =
+    category = "categories"
+baseurl = "http://valaromainitiative.github.io/hugo_testing"
+languageCode = "en-us"
+title = "Hugo Alpha"
